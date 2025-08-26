@@ -1,0 +1,4 @@
+Cagnetta, Diana, 757000, Varese, (System architect)
+Romano, Auorora, 757605, Varese,  (Project manager)
+Morena, Matteo, 756150, Varese, (Document & quality manager)
+Colombo, Gianluca, 757634, Varese,  (Design manager)
